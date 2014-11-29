@@ -1,4 +1,4 @@
 project-euler-clojure
 =====================
-Solutions for Project Euler using CLojure.
+Solutions for Project Euler using Clojure.
 https://projecteuler.net/
